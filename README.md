@@ -1,2 +1,1 @@
-# tidyr-with-ggplot2
-Plotting
+This was just a tutorial on combining data manipulation using tidyr and ggplot2. The result is a graph plot that displays many different variables all at once. I went a little too far with it compared to the example and my resulting plot was a huge mess. It worked as intedned, but there was just way too much going on.
